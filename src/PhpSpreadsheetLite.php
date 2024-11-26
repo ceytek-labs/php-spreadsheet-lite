@@ -1,6 +1,6 @@
 <?php
 
-namespace CeytekLab\PhpSpreadsheetLite;
+namespace CeytekLabs\PhpSpreadsheetLite;
 
 use PhpOffice\PhpSpreadsheet\Cell\Coordinate;
 use PhpOffice\PhpSpreadsheet\Reader\Xlsx as XlsxReader;

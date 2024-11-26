@@ -1,6 +1,6 @@
 <?php
 
-namespace CeytekLab\PhpSpreadsheetLite;
+namespace CeytekLabs\PhpSpreadsheetLite;
 
 enum SpreadsheetFormat: string
 {
