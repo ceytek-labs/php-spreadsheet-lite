@@ -1,0 +1,38 @@
+{
+    "name": "ceytek-labs/php-spreadsheet-lite",
+    "description": "A lightweight library for creating and reading spreadsheets in CSV or XLSX formats using PhpSpreadsheet.",
+    "keywords": [
+        "Spreadsheet",
+        "CSV",
+        "XLSX",
+        "PhpSpreadsheet",
+        "Excel",
+        "PHP",
+        "Library",
+        "Lightweight",
+        "Ceytek Labs"
+    ],
+    "homepage": "https://github.com/ceytek-labs/php-spreadsheet-lite",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ceyhun Celik",
+            "email": "ceyhunbcelik@icloud.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CeytekLabs\\PhpSpreadsheetLite\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "phpoffice/phpspreadsheet": "^1.25"
+    },
+    "support": {
+        "issues": "https://github.com/ceytek-labs/php-spreadsheet-lite/issues",
+        "source": "https://github.com/ceytek-labs/php-spreadsheet-lite"
+    }
+}
